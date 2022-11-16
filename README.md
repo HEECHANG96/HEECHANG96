@@ -12,7 +12,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<!--   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> -->
 </p>
 
 | <a href="https://github.com/HEECHANG96/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HEECHANG96&show_icons=true&include_all_commits=true&theme=vue" alt="heechang's github stats" /></a> | <a href="https://github.com/HEECHANG96/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEECHANG96&layout=compact&theme=vue" /></a> |
