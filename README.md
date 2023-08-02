@@ -31,7 +31,7 @@
   <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </p>
 
-|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HEECHANG96&layout=compact&theme=merko) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEECHANG96&show_icons=true&theme=merko) |
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HEECHANG96&langs_count=10&layout=compact&theme=dark)](https://github.com/HEECHANG96/HEECHANG96) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEECHANG96&show_icons=true&theme=dark) |
 | ------------- | ------------- |
 
 
