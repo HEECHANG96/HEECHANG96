@@ -2,22 +2,39 @@
 
 <p>Welcome to my page! </br> I'm Heechang, FrontEnd developer from <img src="https://img.icons8.com/color/18/null/south-korea-circular.png"/> <b>GyeongSan, South Korea.</p>
 
-## Things I code with
+## Strong
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&Color=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="github" src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=git&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="bootstrap" src="https://img.shields.io/badge/-BOOTSTRAP-blue?style=flat-square&logo=bootstrap&logoColor=white" />
-<!--   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> -->
+  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white">
+<!--    -->
 </p>
 
-| <a href="https://github.com/HEECHANG96/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HEECHANG96&show_icons=true&include_all_commits=true&theme=vue" alt="heechang's github stats" /></a> | <a href="https://github.com/HEECHANG96/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEECHANG96&layout=compact&theme=vue" /></a> |
+## knowledgeable
+<p>
+  <img alt="Typescript" src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="React-Query" src="https://img.shields.io/badge/-reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
+  <img alt="Redux-Toolkit" src="https://img.shields.io/badge/-ReduxToolkit-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
+  <img alt="Axios" src="https://img.shields.io/badge/-Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"> 
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white"> 
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=for-the-badge&logo=styled-components&logoColor=white">
+  <img alt="bootstrap" src="https://img.shields.io/badge/-BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+</p>
+
+## ETC
+<p>
+   <img alt="Git" src="https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="Notion" src="https://img.shields.io/badge/-Notion-yellow?style=for-the-badge&logo=notion&logoColor=white">
+  <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</p>
+
+|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HEECHANG96&layout=compact&theme=merko) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEECHANG96&show_icons=true&theme=merko) |
 | ------------- | ------------- |
+
+
 
 
 <h3 align="center"> ⚡ Me ⚡ </h3>
