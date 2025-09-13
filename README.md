@@ -19,6 +19,7 @@
 <p>
   <img alt="Git" src="https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git&logoColor=white">
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white">
   <img alt="TestRail" src="https://img.shields.io/badge/-TestRail-24A148?style=for-the-badge&logoColor=white">
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
